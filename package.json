@@ -2,7 +2,7 @@
   "name": "f",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://cr1m3s.github.io/goit-react-h2-04-images",
+  "homepage": "https://cr1m3s.github.io/goit-react-hw-04-images",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.3.0",
